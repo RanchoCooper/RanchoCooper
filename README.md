@@ -11,7 +11,6 @@
 <p align="center">
 </p>
 
-- 🔭 I’m currently focus on Golang and Backendeng related technologe
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about Golang, DDD, Hexagonal Architecture...
+- 🔭 I’m currently focus on Golang and Backendeng related technologe and cryptocurrency.
+- 💬 Ask me about Golang, Python, Java, DDD, Hexagonal Architecture etc.
 - 📫 How to reach me: ranchocooper@gmail.com
