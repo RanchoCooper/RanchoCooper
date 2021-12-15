@@ -15,3 +15,16 @@
 - 🔭 I’m currently focus on Golang and Backend related technologe and cryptocurrency.
 - 💬 Ask me about Golang, Python, Java, DDD, Hexagonal Architecture etc.
 - 📫 How to reach me: ranchocooper@gmail.com
+
+<hr>
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+
+<p align="center">
+<a href= "https://www.linkedin.com/in/ranchocooper/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://blog.ranchocooper.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+</p>
+
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ranchocooper" alt="visitor badge"/>       
+</p>
