@@ -3,6 +3,8 @@
 - 🔭 I’m currently focus on Golang and Backend related technologe and cryptocurrency.
 - 💬 Ask me about Golang, Python, Java, DDD, Hexagonal Architecture etc.
 - 📫 How to reach me: ranchocooper@gmail.com
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ranchocooper/)
+![Wechat](https://img.shields.io/badge/-Rancho1110-green?style=flat&logo=Wechat&logoColor=white)
 
 <hr>
 <p align="center">
@@ -21,10 +23,15 @@
 </p>
 
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ranchocooper" alt="visitor badge"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ranchocooper" alt="visitor badge"/>
 </p>
 
 <p align="center">
 <a href= "https://www.linkedin.com/in/ranchocooper/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://blog.ranchocooper.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+</p>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RanchoCooper&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 </p>
