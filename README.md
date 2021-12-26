@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently focus on Golang and Backend related technologe and cryptocurrency.
 - 💬 Ask me about Golang, Python, Java, DDD, Hexagonal Architecture etc.
-- 📫 How to reach me: ranchocooper@gmail.com
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ranchocooper/)
+- 📫 How to reach me: 
 ![Wechat](https://img.shields.io/badge/-Rancho1110-green?style=flat&logo=Wechat&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ranchocooper/)
 
 <hr>
 <p align="center">
