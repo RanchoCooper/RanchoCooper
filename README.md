@@ -1,42 +1,32 @@
-# @Rancho    Hi, there 👋
+# Hi, there 👋
 
-- 🔭 I’m currently focus on Golang and Backend related technologe and cryptocurrency.
+- 🔭 I’m currently focus on Golang and Cryptocurrency and Backend Technology .
 - 💬 Ask me about Golang, Python, Java, DDD, Hexagonal Architecture etc.
-- 📫 How to reach me: 
-![Wechat](https://img.shields.io/badge/-Rancho1110-green?style=flat&logo=Wechat&logoColor=white)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ranchocooper/)
+- 📫 How to reach me: ![Wechat](https://img.shields.io/badge/-Rancho1110-green?style=flat&logo=Wechat&logoColor=white)
+
 
 <hr>
-<p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
-</p>
-  
-<p align="center">
-<a href="https://github.com/golang/go"><img src="https://img.shields.io/github/stars/golang/go.svg?label=Go&style=social" alt="Go on GitHub"></a>
-<a href="https://github.com/vibora-io/vibora"><img src="https://img.shields.io/github/stars/vibora-io/vibora.svg?label=Vibro&style=social" alt="Vibora on GitHub"></a>
-<a href="https://github.com/RanchoCooper/quants"><img src="https://img.shields.io/github/stars/RanchoCooper/quants.svg?label=Quants&style=social" alt="Quants on GitHub"></a>
-<a href="https://github.com/RanchoCooper/go-hexagonal"><img src="https://img.shields.io/github/stars/RanchoCooper/go-hexagonal.svg?label=Go-Hexagonal&style=social" alt="Go Hexagonal on GitHub"></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/RanchoCooper"><img src="https://img.shields.io/github/followers/RanchoCooper.svg?label=RanchoCooper&style=social" alt="GitHub"></a>
-</p>
-
-<p align="center">
-<a href= "https://www.linkedin.com/in/ranchocooper/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://blog.ranchocooper.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RanchoCooper&theme=prussian&show_icons=true&count_private=true" height="170" alt="My GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanchoCooper&theme=prussian&show_icons=true&count_private=true&layout=compact" height="170" alt="Most Used Languages">
 
 
+  <hr>
+  <b>Take a look at my repositories</b>
+  <p></p>
+  <a href="https://github.com/vibora-io/vibora"><img src="https://img.shields.io/github/stars/vibora-io/vibora.svg?label=Vibro&style=social" alt="Vibora on GitHub"></a>
+  <a href="https://github.com/RanchoCooper/quants"><img src="https://img.shields.io/github/stars/RanchoCooper/quants.svg?label=Quants&style=social" alt="Quants on GitHub">
+  <a href="https://github.com/RanchoCooper/go-hexagonal"><img src="https://img.shields.io/github/stars/RanchoCooper/go-hexagonal.svg?label=Go-Hexagonal&style=social" alt="Go Hexagonal on GitHub"></a>
+  <p></p>
+  <a href="https://wakatime.com/@c43b20d4-dab1-487b-acbf-12123d41ba8d"><img src="https://wakatime.com/badge/user/c43b20d4-dab1-487b-acbf-12123d41ba8d.svg" alt="Total time coded since May 4 2016" /></a>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/RanchoCooper/count.svg" />
-</p>
+  <hr>
 
-------
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanchoCooper&theme=prussian&show_icons=true&count_private=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanchoCooper&theme=prussian&show_icons=true&count_private=true&layout=compact" height="170">
-</p>
+  <b>Take a look at my  blog</b>
+  <p></p>
+  <a href= "https://blog.ranchocooper.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png" alt="My Blog"/></a>
+  <hr>
+  <b> Visitors Count </b>
+  <p></p>
+  <img src="https://profile-counter.glitch.me/RanchoCooper/count.svg"  alt="Visitors Count"/>
+</div>
