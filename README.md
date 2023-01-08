@@ -18,9 +18,10 @@
   <a href="https://github.com/RanchoCooper/quants"><img src="https://img.shields.io/github/stars/RanchoCooper/quants.svg?label=Quants&style=social" alt="Quants on GitHub">
   <a href="https://github.com/RanchoCooper/go-hexagonal"><img src="https://img.shields.io/github/stars/RanchoCooper/go-hexagonal.svg?label=Go-Hexagonal&style=social" alt="Go Hexagonal on GitHub"></a>
   <p></p>
-  <a href="https://wakatime.com/@c43b20d4-dab1-487b-acbf-12123d41ba8d"><img src="https://wakatime.com/badge/user/c43b20d4-dab1-487b-acbf-12123d41ba8d.svg" alt="Total time coded since May 4 2016" /></a>
+  <a href="https://wakatime.com/@c43b20d4-dab1-487b-acbf-12123d41ba8d"><img src="https://wakatime.com/badge/user/92288ab8-c53c-482b-adb2-84e8e05771f5.svg" alt="Total time coded since May 4 2016" /></a>
 
   <hr>
+    
 
   <b>Take a look at my  blog</b>
   <p></p>
