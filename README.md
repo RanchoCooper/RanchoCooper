@@ -14,9 +14,10 @@
   <hr>
   <b>Take a look at my repositories</b>
   <p></p>
-  <a href="https://github.com/vibora-io/vibora"><img src="https://img.shields.io/github/stars/vibora-io/vibora.svg?label=Vibro&style=social" alt="Vibora on GitHub"></a>
-  <a href="https://github.com/RanchoCooper/quants"><img src="https://img.shields.io/github/stars/RanchoCooper/quants.svg?label=Quants&style=social" alt="Quants on GitHub">
   <a href="https://github.com/RanchoCooper/go-hexagonal"><img src="https://img.shields.io/github/stars/RanchoCooper/go-hexagonal.svg?label=Go-Hexagonal&style=social" alt="Go Hexagonal on GitHub"></a>
+  <a href="https://github.com/RanchoCooper/py-hexagonal"><img src="https://img.shields.io/github/stars/RanchoCooper/py-hexagonal.svg?label=Py-Hexagonal&style=social" alt="Py Hexagonal on GitHub"></a>
+  <a href="https://github.com/RanchoCooper/quants"><img src="https://img.shields.io/github/stars/RanchoCooper/quants.svg?label=Quants&style=social" alt="Quants on GitHub">
+  <a href="https://github.com/RanchoCooper/py-quantix"><img src="https://img.shields.io/github/stars/RanchoCooper/py-quantix.svg?label=Py-Quantix&style=social" alt="Py Quantix on GitHub"></a>
   <p></p>
   <a href="https://wakatime.com/@c43b20d4-dab1-487b-acbf-12123d41ba8d"><img src="https://wakatime.com/badge/user/92288ab8-c53c-482b-adb2-84e8e05771f5.svg" alt="Total time coded since May 4 2016" /></a>
 
