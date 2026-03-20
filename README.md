@@ -21,7 +21,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,java,gin,flask,fastapi,mysql,postgres,redis,docker,kubernetes,linux,git,idea,postman" />
+    <img src="https://skillicons.dev/icons?i=go,python,java,c,cpp,rust,md,gin,beego,django,flask,fastapi,mysql,postgres,redis,kafka,docker,kubernetes,prometheus,apple,linux,ubuntu,git,vim,idea,sublime,postman" />
   </a>
 </p>
 
