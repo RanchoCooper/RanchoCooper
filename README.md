@@ -36,11 +36,10 @@
 
 > Production-grade quantitative trading system (Backtesting + Live Trading + AI Analysis)
 
-* ⚡ Strategy Engine (Backtesting / Live)
+* ⚡ Strategy Engine (Backtesting / Live / Analyzer)
 * 📊 Market Data Pipeline
 * 🔌 Binance API Integration
-* 🧱 Modular Architecture (DDD)
-* 🚀 CI/CD Ready
+* 🧱 Modular Architecture
 
 👉 https://github.com/RanchoCooper/py-quantix
 
@@ -53,8 +52,7 @@
 * 🧠 Persistent memory across sessions（解决 LLM “失忆”问题）
 * 🔍 Semantic search (Vector + Keyword hybrid retrieval)
 * 🧱 MCP-based architecture (Claude / Cursor / Copilot compatible)
-* 🔒 Local-first storage (SQLite / PostgreSQL + Vector DB)
-* ⚡ Scalable memory domains & knowledge organization
+* 🔒 Local-first storage (SQLite + Vector DB)
 
 👉 https://github.com/RanchoCooper/local-memory
 
