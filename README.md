@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,java,c,cpp,rust,gin,django,flask,fastapi,mysql,postgres,redis,kafka,docker,kubernetes,prometheus,linux,git,vim,idea" />
+    <img src="https://skillicons.dev/icons?i=go,python,java,c,cpp,gin,django,flask,fastapi,mysql,postgres,redis,kafka,docker,kubernetes,linux,git,vim,idea" />
   </a>
 </p>
 
@@ -73,8 +73,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanchoCooper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanchoCooper&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RanchoCooper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=RanchoCooper&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
 </p>
 
 <p align="center">
